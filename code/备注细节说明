@@ -1,0 +1,3 @@
+在本实例中的centOS8虚拟环境中安装的zookeeper版本为3.5.7，linux环境为jdk1.8
+但是在实际的开发环境中3.5.7的zookeeper必须要jdk1.8以上的版本才能正常启动所以
+要么改环境采用1.8以上的jdk版本zookeeper.jar包，要么在maven中改用低
